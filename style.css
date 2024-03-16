@@ -4,11 +4,14 @@ body {
   font-family: 'JetBrains Mono', sans-serif;
   background: #2F2E41;
   color: #ffffff;
+
+  min-height: 100vh;
 }
 
 #page {
- width: 1092px; 
- margin: 71px auto 0;
+  width: 1092px; 
+  margin: 0 auto;
+  padding: 71px;
 }
 
 nav {
