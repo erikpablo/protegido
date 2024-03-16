@@ -1,6 +1,7 @@
 Nesse desafio, foi nos dado uma aplicação, a partir de um layout, para treinar o que aprendeu até agora no Stage 02.
 
-![Desafio - Avançado e acessível](https://github.com/erikpablo/protegido/assets/159021301/553103ab-1327-4ce3-9098-0e73e6461646)
+![background](https://github.com/erikpablo/protegido/assets/159021301/bd26bd45-f487-49c8-a343-fe44d49e00ef)
+
 
 Muito incirvel, consegui colocar tudo que aprendi em pratica, replique e adicionei mais algumas coias que foram ensiados. 
 Tags HTML, foram utilizados de forma semânticas. 
